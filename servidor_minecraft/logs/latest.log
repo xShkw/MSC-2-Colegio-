@@ -45,3 +45,13 @@
 [21:44:31] [Server thread/INFO]: <--[HERE]
 [21:44:39] [Server thread/INFO]: Dinocrack_Gamer[/127.151.75.41:51339] logged in with entity id 5 at (-9.5, 71.0, -4.5)
 [21:44:39] [Server thread/INFO]: Dinocrack_Gamer joined the game
+[21:55:08] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:55:08] [Server thread/INFO]: <--[HERE]
+[21:55:13] [Server thread/INFO]: Made Dinocrack_Gamer a server operator
+[21:55:18] [Server thread/INFO]: [Dinocrack_Gamer: Set own game mode to Creative Mode]
+[21:55:41] [Server thread/INFO]: Saving the game (this may take a moment!)
+[21:55:41] [Server thread/INFO]: Saved the game
+[21:59:40] [Server thread/INFO]: Dinocrack_Gamer lost connection: Timed out
+[21:59:40] [Server thread/INFO]: Dinocrack_Gamer left the game
+[21:59:40] [Server thread/WARN]: handleDisconnection() called twice
+[22:00:40] [Server thread/INFO]: Server empty for 60 seconds, pausing

@@ -1,0 +1,47 @@
+[21:44:12] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:44:17] [ServerMain/INFO]: Loaded 1337 recipes
+[21:44:17] [ServerMain/INFO]: Loaded 1448 advancements
+[21:44:17] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[21:44:17] [Server thread/INFO]: Loading properties
+[21:44:17] [Server thread/INFO]: Default game type: SURVIVAL
+[21:44:17] [Server thread/INFO]: Generating keypair
+[21:44:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:44:18] [Server thread/INFO]: Using epoll channel type
+[21:44:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:44:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:44:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:44:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:44:18] [Server thread/INFO]: Preparing level "world"
+[21:44:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:44:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:44:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:44:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:44:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:44:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:44:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:44:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:44:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:44:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:44:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:44:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:44:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:44:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:44:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:44:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:44:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:44:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:44:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:44:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:44:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:44:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:44:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:44:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:44:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:44:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:44:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:44:31] [Server thread/INFO]: Time elapsed: 12684 ms
+[21:44:31] [Server thread/INFO]: Done (13.440s)! For help, type "help"
+[21:44:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:44:31] [Server thread/INFO]: <--[HERE]
+[21:44:39] [Server thread/INFO]: Dinocrack_Gamer[/127.151.75.41:51339] logged in with entity id 5 at (-9.5, 71.0, -4.5)
+[21:44:39] [Server thread/INFO]: Dinocrack_Gamer joined the game

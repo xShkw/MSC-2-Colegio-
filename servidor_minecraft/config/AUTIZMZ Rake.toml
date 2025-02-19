@@ -1,0 +1,29 @@
+
+[DefaultRake]
+	"Can rake break blocks?" = true
+	"Can rake climb?" = true
+	#does it skip to day if you defeat the rake
+	"Skip to day" = true
+
+[Cave]
+	"Can cave spawn" = true
+	#how often the cave checks for spawning condition for the rake
+	"Cave update check" = 1200.0
+
+[BloodHourRake]
+	"can bloodhour happen?" = true
+	#the higher the number the lower the chance (cant be 1)
+	"bloodhour chance" = 5.0
+	"can bloodhour break blocks?" = true
+
+["Other Stuff"]
+	#(disables rake rewards) your a fucking pussy for turning this off
+	"disable disable sleeping" = false
+	#turning this on will play ambient music during the day
+	"ambient day music" = false
+
+["VisionHour Rake"]
+	"visionhour chance" = 10.0
+	"can vision hour break blocks" = true
+	"can visionhour happen" = true
+

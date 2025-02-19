@@ -16,6 +16,7 @@
       "minecraft:windswept_forest": "2024-12-06 21:55:26 +0000",
       "minecraft:ocean": "2025-02-19 04:02:51 +0000",
       "minecraft:windswept_savanna": "2025-02-19 03:12:44 +0000",
+      "minecraft:flower_forest": "2025-02-19 04:05:44 +0000",
       "minecraft:meadow": "2025-02-19 03:14:04 +0000",
       "minecraft:plains": "2025-02-19 03:23:26 +0000"
     },
@@ -495,6 +496,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-02-19 04:06:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-19 03:16:17 +0000"
@@ -709,6 +716,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-02-19 04:13:24 +0000",
       "cooked_beef": "2025-02-19 03:35:38 +0000",
       "mutton": "2025-02-19 03:21:45 +0000"
     },

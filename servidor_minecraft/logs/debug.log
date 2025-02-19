@@ -4786,3 +4786,625 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [19Feb2025 03:44:24.844] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
 [19Feb2025 03:44:24.942] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
 [19Feb2025 03:44:25.420] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:44:26.200] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:44:26.303] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[19Feb2025 03:44:26.308] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:44:28.693] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:44:28.895] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:44:28.895] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:44:28.982] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:44:30.214] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:44:30.215] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:44:30.485] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:44:30.491] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:44:30.623] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:44:31.097] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:44:31.731] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:44:31.982] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:44:32.368] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:44:33.455] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:44:33.608] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:44:33.679] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:44:33.946] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:44:34.193] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:44:34.453] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:44:34.536] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:44:34.627] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:44:34.693] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:44:38.409] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:44:38.931] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:44:45.302] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4022ms or 80 ticks behind
+[19Feb2025 03:44:48.589] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:44:48.795] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:44:48.795] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:44:48.997] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:44:49.971] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:44:49.972] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:44:50.939] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:44:52.274] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:44:52.275] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:44:52.345] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:44:52.346] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:44:56.500] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:45:13.231] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:45:23.581] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:45:27.635] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:45:27.899] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:45:28.047] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:45:28.088] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:45:28.282] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:45:28.548] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:45:28.590] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:45:37.138] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:45:37.320] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:45:55.695] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:45:57.277] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:45:57.333] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:45:57.334] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:45:57.380] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:45:59.432] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:46:00.309] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:46:00.386] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:46:00.467] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:46:00.574] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:46:00.630] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:46:01.437] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:46:07.236] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:46:09.511] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:46:09.557] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:46:09.740] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:46:11.817] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:46:12.106] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:46:12.874] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:46:13.003] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:46:13.677] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:46:13.849] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:46:13.945] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:46:14.171] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:46:14.322] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:46:16.696] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:46:17.892] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[19Feb2025 03:46:18.258] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:46:18.354] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:46:18.355] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor_2 but it was marked as removed already
+[19Feb2025 03:46:20.679] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:46:20.887] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:46:25.931] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:46:26.108] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:46:26.108] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:46:33.547] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:46:43.555] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:46:48.528] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:46:51.456] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:46:51.754] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:46:51.949] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:46:57.988] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:46:58.028] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:46:59.033] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:47:02.955] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:47:03.881] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:47:04.082] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:47:04.890] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
+[19Feb2025 03:47:04.981] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:47:09.018] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:47:10.381] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:47:11.231] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:47:15.382] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:47:15.633] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:47:15.739] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:47:15.792] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:47:15.793] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:47:16.487] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:47:16.682] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:47:16.732] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
+[19Feb2025 03:47:16.932] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:47:18.982] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:47:19.122] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:47:19.178] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor_2 but it was marked as removed already
+[19Feb2025 03:47:19.247] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:47:20.133] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:47:20.182] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:47:20.233] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:47:20.236] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:47:20.283] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:47:20.284] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:47:42.431] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:47:42.481] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:47:50.029] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:47:50.990] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:47:51.028] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:47:51.381] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:47:52.131] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:47:52.481] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:47:54.580] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:47:54.581] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor_2 but it was marked as removed already
+[19Feb2025 03:47:54.581] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
+[19Feb2025 03:47:55.331] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:47:57.895] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:48:00.182] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:48:00.931] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:48:01.003] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:48:03.132] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:48:05.231] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:48:14.981] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:48:14.981] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
+[19Feb2025 03:48:15.031] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:48:15.131] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:48:15.232] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:48:15.232] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:48:15.331] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:48:15.431] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:48:18.882] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:48:19.931] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:48:21.163] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:48:21.981] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:48:21.981] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:48:22.081] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:48:22.335] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:48:22.335] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:48:22.431] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:48:25.581] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
+[19Feb2025 03:48:26.181] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:48:26.232] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:48:27.831] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:48:27.882] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:48:29.273] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:48:29.274] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:48:31.762] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:48:33.081] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:48:33.082] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:48:33.397] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:48:34.381] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
+[19Feb2025 03:48:38.432] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:48:38.481] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:48:38.531] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:48:38.736] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:48:38.775] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:48:38.816] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:48:39.594] [Server thread/DEBUG] [pointblank/]: 19594 handling client fire request
+[19Feb2025 03:48:39.594] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 29
+[19Feb2025 03:48:39.594] [Server thread/DEBUG] [pointblank/]: 19594 - obtained hit result in 0ms
+[19Feb2025 03:48:39.594] [Server thread/DEBUG] [pointblank/]: 19594 obtained hit results
+[19Feb2025 03:48:39.594] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7bdbbc64
+[19Feb2025 03:48:39.594] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1152.02, y=66.00, z=188.42] sends hit scan notification to ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1152.02, y=66.00, z=188.42]
+[19Feb2025 03:48:39.687] [Server thread/DEBUG] [pointblank/]: 19687 handling client fire request
+[19Feb2025 03:48:39.687] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 28
+[19Feb2025 03:48:39.687] [Server thread/DEBUG] [pointblank/]: 19687 - obtained hit result in 0ms
+[19Feb2025 03:48:39.687] [Server thread/DEBUG] [pointblank/]: 19687 obtained hit results
+[19Feb2025 03:48:39.687] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@31f02639
+[19Feb2025 03:48:39.687] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1152.02, y=66.00, z=188.42] sends hit scan notification to ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1152.02, y=66.00, z=188.42]
+[19Feb2025 03:48:39.730] [Server thread/DEBUG] [pointblank/]: 19730 handling client fire request
+[19Feb2025 03:48:39.730] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 27
+[19Feb2025 03:48:39.730] [Server thread/DEBUG] [pointblank/]: 19730 - obtained hit result in 0ms
+[19Feb2025 03:48:39.730] [Server thread/DEBUG] [pointblank/]: 19730 obtained hit results
+[19Feb2025 03:48:39.730] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@61b042dd
+[19Feb2025 03:48:39.730] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1152.02, y=66.00, z=188.42] sends hit scan notification to ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1152.02, y=66.00, z=188.42]
+[19Feb2025 03:48:39.820] [Server thread/DEBUG] [pointblank/]: 19820 handling client fire request
+[19Feb2025 03:48:39.820] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 26
+[19Feb2025 03:48:39.820] [Server thread/DEBUG] [pointblank/]: 19820 - obtained hit result in 0ms
+[19Feb2025 03:48:39.820] [Server thread/DEBUG] [pointblank/]: 19820 obtained hit results
+[19Feb2025 03:48:39.821] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4db20e98
+[19Feb2025 03:48:39.821] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1152.02, y=66.00, z=188.42] sends hit scan notification to ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1152.02, y=66.00, z=188.42]
+[19Feb2025 03:48:39.879] [Server thread/DEBUG] [pointblank/]: 19879 handling client fire request
+[19Feb2025 03:48:39.879] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 25
+[19Feb2025 03:48:39.879] [Server thread/DEBUG] [pointblank/]: 19879 - obtained hit result in 0ms
+[19Feb2025 03:48:39.879] [Server thread/DEBUG] [pointblank/]: 19879 obtained hit results
+[19Feb2025 03:48:39.879] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6baca3d6
+[19Feb2025 03:48:39.879] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1152.02, y=66.00, z=188.42] sends hit scan notification to ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1152.02, y=66.00, z=188.42]
+[19Feb2025 03:48:39.972] [Server thread/DEBUG] [pointblank/]: 19972 handling client fire request
+[19Feb2025 03:48:39.972] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 24
+[19Feb2025 03:48:39.972] [Server thread/DEBUG] [pointblank/]: 19972 - obtained hit result in 0ms
+[19Feb2025 03:48:39.972] [Server thread/DEBUG] [pointblank/]: 19972 obtained hit results
+[19Feb2025 03:48:39.972] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5b5d8174
+[19Feb2025 03:48:39.972] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1152.02, y=66.00, z=188.42] sends hit scan notification to ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1152.02, y=66.00, z=188.42]
+[19Feb2025 03:48:40.769] [Server thread/DEBUG] [pointblank/]: 20769 handling client fire request
+[19Feb2025 03:48:40.769] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 23
+[19Feb2025 03:48:40.769] [Server thread/DEBUG] [pointblank/]: 20769 - obtained hit result in 0ms
+[19Feb2025 03:48:40.769] [Server thread/DEBUG] [pointblank/]: 20769 obtained hit results
+[19Feb2025 03:48:40.769] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@41b1cea4
+[19Feb2025 03:48:40.770] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1151.49, y=66.00, z=187.65] sends hit scan notification to ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1151.49, y=66.00, z=187.65]
+[19Feb2025 03:48:40.869] [Server thread/DEBUG] [pointblank/]: 20869 handling client fire request
+[19Feb2025 03:48:40.869] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 22
+[19Feb2025 03:48:40.869] [Server thread/DEBUG] [pointblank/]: 20869 - obtained hit result in 0ms
+[19Feb2025 03:48:40.869] [Server thread/DEBUG] [pointblank/]: 20869 obtained hit results
+[19Feb2025 03:48:40.869] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@461aab9e
+[19Feb2025 03:48:40.869] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1151.49, y=66.00, z=187.67] sends hit scan notification to ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1151.49, y=66.00, z=187.67]
+[19Feb2025 03:48:40.920] [Server thread/DEBUG] [pointblank/]: 20920 handling client fire request
+[19Feb2025 03:48:40.920] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 21
+[19Feb2025 03:48:40.920] [Server thread/DEBUG] [pointblank/]: 20920 - obtained hit result in 0ms
+[19Feb2025 03:48:40.920] [Server thread/DEBUG] [pointblank/]: 20920 obtained hit results
+[19Feb2025 03:48:40.920] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5d126861
+[19Feb2025 03:48:40.920] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1151.49, y=66.00, z=187.74] sends hit scan notification to ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1151.49, y=66.00, z=187.74]
+[19Feb2025 03:48:41.033] [Server thread/DEBUG] [pointblank/]: 21033 handling client fire request
+[19Feb2025 03:48:41.033] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 20
+[19Feb2025 03:48:41.034] [Server thread/DEBUG] [pointblank/]: 21034 - obtained hit result in 1ms
+[19Feb2025 03:48:41.034] [Server thread/DEBUG] [pointblank/]: 21034 obtained hit results
+[19Feb2025 03:48:41.034] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@39ac575e
+[19Feb2025 03:48:41.034] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1151.49, y=66.00, z=187.78] sends hit scan notification to ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1151.49, y=66.00, z=187.78]
+[19Feb2025 03:48:41.074] [Server thread/DEBUG] [pointblank/]: 21074 handling client fire request
+[19Feb2025 03:48:41.074] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 19
+[19Feb2025 03:48:41.075] [Server thread/DEBUG] [pointblank/]: 21075 - obtained hit result in 0ms
+[19Feb2025 03:48:41.075] [Server thread/DEBUG] [pointblank/]: 21075 obtained hit results
+[19Feb2025 03:48:41.075] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7733616a
+[19Feb2025 03:48:41.075] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1151.49, y=66.00, z=187.84] sends hit scan notification to ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1151.49, y=66.00, z=187.84]
+[19Feb2025 03:48:55.731] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:48:55.881] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:48:55.931] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:48:55.931] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:48:56.050] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:48:56.096] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:48:56.096] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:48:56.138] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:48:56.182] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:49:00.032] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:49:00.081] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
+[19Feb2025 03:49:17.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Feb2025 03:49:17.721] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Feb2025 03:49:21.492] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:49:28.852] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:49:28.980] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:49:35.620] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:49:35.713] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:49:37.419] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:49:37.492] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:49:37.680] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:49:37.831] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:49:37.867] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:49:38.273] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:49:38.898] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:49:38.937] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:49:40.439] [Server thread/DEBUG] [pointblank/]: 80439 handling client fire request
+[19Feb2025 03:49:40.440] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 18
+[19Feb2025 03:49:40.440] [Server thread/DEBUG] [pointblank/]: 80440 - obtained hit result in 0ms
+[19Feb2025 03:49:40.440] [Server thread/DEBUG] [pointblank/]: 80440 obtained hit results
+[19Feb2025 03:49:40.440] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@21ae0c9f
+[19Feb2025 03:49:40.440] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=142.45, y=62.00, z=38.61] sends hit scan notification to ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=142.45, y=62.00, z=38.61]
+[19Feb2025 03:49:40.517] [Server thread/DEBUG] [pointblank/]: 80517 handling client fire request
+[19Feb2025 03:49:40.517] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 17
+[19Feb2025 03:49:40.517] [Server thread/DEBUG] [pointblank/]: 80517 - obtained hit result in 0ms
+[19Feb2025 03:49:40.517] [Server thread/DEBUG] [pointblank/]: 80517 obtained hit results
+[19Feb2025 03:49:40.517] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@281fa093
+[19Feb2025 03:49:40.518] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=142.45, y=62.00, z=38.61] sends hit scan notification to ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=142.45, y=62.00, z=38.61]
+[19Feb2025 03:49:40.593] [Server thread/DEBUG] [pointblank/]: 80593 handling client fire request
+[19Feb2025 03:49:40.594] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 16
+[19Feb2025 03:49:40.594] [Server thread/DEBUG] [pointblank/]: 80594 - obtained hit result in 0ms
+[19Feb2025 03:49:40.594] [Server thread/DEBUG] [pointblank/]: 80594 obtained hit results
+[19Feb2025 03:49:40.594] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7e5f0b33
+[19Feb2025 03:49:40.594] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=142.45, y=62.00, z=38.61] sends hit scan notification to ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=142.45, y=62.00, z=38.61]
+[19Feb2025 03:49:40.671] [Server thread/DEBUG] [pointblank/]: 80671 handling client fire request
+[19Feb2025 03:49:40.671] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 15
+[19Feb2025 03:49:40.671] [Server thread/DEBUG] [pointblank/]: 80671 - obtained hit result in 0ms
+[19Feb2025 03:49:40.671] [Server thread/DEBUG] [pointblank/]: 80671 obtained hit results
+[19Feb2025 03:49:40.671] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@e3fbe75
+[19Feb2025 03:49:40.672] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=142.45, y=62.00, z=38.61] sends hit scan notification to ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=142.45, y=62.00, z=38.61]
+[19Feb2025 03:49:40.746] [Server thread/DEBUG] [pointblank/]: 80746 handling client fire request
+[19Feb2025 03:49:40.746] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 14
+[19Feb2025 03:49:40.747] [Server thread/DEBUG] [pointblank/]: 80747 - obtained hit result in 0ms
+[19Feb2025 03:49:40.747] [Server thread/DEBUG] [pointblank/]: 80747 obtained hit results
+[19Feb2025 03:49:40.747] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@ed15b39
+[19Feb2025 03:49:40.747] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=142.45, y=62.00, z=38.61] sends hit scan notification to ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=142.45, y=62.00, z=38.61]
+[19Feb2025 03:49:40.806] [Server thread/DEBUG] [pointblank/]: 80806 handling client fire request
+[19Feb2025 03:49:40.806] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 13
+[19Feb2025 03:49:40.806] [Server thread/DEBUG] [pointblank/]: 80806 - obtained hit result in 0ms
+[19Feb2025 03:49:40.807] [Server thread/DEBUG] [pointblank/]: 80807 obtained hit results
+[19Feb2025 03:49:40.807] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@443daa1e
+[19Feb2025 03:49:40.807] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=142.66, y=62.00, z=38.61] sends hit scan notification to ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=142.66, y=62.00, z=38.61]
+[19Feb2025 03:49:40.909] [Server thread/DEBUG] [pointblank/]: 80909 handling client fire request
+[19Feb2025 03:49:40.910] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 12
+[19Feb2025 03:49:40.910] [Server thread/DEBUG] [pointblank/]: 80910 - obtained hit result in 0ms
+[19Feb2025 03:49:40.910] [Server thread/DEBUG] [pointblank/]: 80910 obtained hit results
+[19Feb2025 03:49:40.910] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5d15b17a
+[19Feb2025 03:49:40.910] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=142.70, y=62.00, z=38.61] sends hit scan notification to ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=142.70, y=62.00, z=38.61]
+[19Feb2025 03:49:41.012] [Server thread/DEBUG] [pointblank/]: 81012 handling client fire request
+[19Feb2025 03:49:41.012] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 11
+[19Feb2025 03:49:41.012] [Server thread/DEBUG] [pointblank/]: 81012 - obtained hit result in 0ms
+[19Feb2025 03:49:41.012] [Server thread/DEBUG] [pointblank/]: 81012 obtained hit results
+[19Feb2025 03:49:41.012] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@98c8d0c
+[19Feb2025 03:49:41.014] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=142.70, y=62.00, z=38.61] sends hit scan notification to ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=142.70, y=62.00, z=38.61]
+[19Feb2025 03:49:41.089] [Server thread/DEBUG] [pointblank/]: 81089 handling client fire request
+[19Feb2025 03:49:41.089] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 10
+[19Feb2025 03:49:41.089] [Server thread/DEBUG] [pointblank/]: 81089 - obtained hit result in 0ms
+[19Feb2025 03:49:41.090] [Server thread/DEBUG] [pointblank/]: 81090 obtained hit results
+[19Feb2025 03:49:41.090] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4856cbc8
+[19Feb2025 03:49:41.090] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=142.70, y=62.00, z=38.61] sends hit scan notification to ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=142.70, y=62.00, z=38.61]
+[19Feb2025 03:49:41.131] [Server thread/DEBUG] [pointblank/]: 81131 handling client fire request
+[19Feb2025 03:49:41.131] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 9
+[19Feb2025 03:49:41.131] [Server thread/DEBUG] [pointblank/]: 81131 - obtained hit result in 0ms
+[19Feb2025 03:49:41.131] [Server thread/DEBUG] [pointblank/]: 81131 obtained hit results
+[19Feb2025 03:49:41.131] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2d868c0a
+[19Feb2025 03:49:41.132] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=142.70, y=62.00, z=38.61] sends hit scan notification to ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=142.70, y=62.00, z=38.61]
+[19Feb2025 03:49:41.213] [Server thread/DEBUG] [pointblank/]: 81213 handling client fire request
+[19Feb2025 03:49:41.213] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 8
+[19Feb2025 03:49:41.213] [Server thread/DEBUG] [pointblank/]: 81213 - obtained hit result in 0ms
+[19Feb2025 03:49:41.213] [Server thread/DEBUG] [pointblank/]: 81213 obtained hit results
+[19Feb2025 03:49:41.213] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1a9506
+[19Feb2025 03:49:41.214] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=142.70, y=62.00, z=38.61] sends hit scan notification to ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=142.70, y=62.00, z=38.61]
+[19Feb2025 03:49:41.299] [Server thread/DEBUG] [pointblank/]: 81299 handling client fire request
+[19Feb2025 03:49:41.299] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 7
+[19Feb2025 03:49:41.299] [Server thread/DEBUG] [pointblank/]: 81299 - obtained hit result in 0ms
+[19Feb2025 03:49:41.299] [Server thread/DEBUG] [pointblank/]: 81299 obtained hit results
+[19Feb2025 03:49:41.299] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6d938ce4
+[19Feb2025 03:49:41.300] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=142.70, y=62.00, z=38.61] sends hit scan notification to ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=142.70, y=62.00, z=38.61]
+[19Feb2025 03:49:41.399] [Server thread/DEBUG] [pointblank/]: 81399 handling client fire request
+[19Feb2025 03:49:41.400] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 6
+[19Feb2025 03:49:41.400] [Server thread/DEBUG] [pointblank/]: 81400 - obtained hit result in 0ms
+[19Feb2025 03:49:41.400] [Server thread/DEBUG] [pointblank/]: 81400 obtained hit results
+[19Feb2025 03:49:41.400] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@47685880
+[19Feb2025 03:49:41.400] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=142.70, y=62.00, z=38.61] sends hit scan notification to ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=142.70, y=62.00, z=38.61]
+[19Feb2025 03:49:41.481] [Server thread/DEBUG] [pointblank/]: 81481 handling client fire request
+[19Feb2025 03:49:41.481] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 5
+[19Feb2025 03:49:41.481] [Server thread/DEBUG] [pointblank/]: 81481 - obtained hit result in 0ms
+[19Feb2025 03:49:41.481] [Server thread/DEBUG] [pointblank/]: 81481 obtained hit results
+[19Feb2025 03:49:41.481] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@14d3a38a
+[19Feb2025 03:49:41.482] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=142.70, y=62.00, z=38.61] sends hit scan notification to ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=142.70, y=62.00, z=38.61]
+[19Feb2025 03:49:41.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinocrack_Gamer was slain by Boiled One
+[19Feb2025 03:49:41.534] [Server thread/DEBUG] [pointblank/]: 81534 handling client fire request
+[19Feb2025 03:49:41.534] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 4
+[19Feb2025 03:49:41.534] [Server thread/DEBUG] [pointblank/]: 81534 - obtained hit result in 0ms
+[19Feb2025 03:49:41.535] [Server thread/DEBUG] [pointblank/]: 81535 obtained hit results
+[19Feb2025 03:49:41.535] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1b1bb6ce
+[19Feb2025 03:49:41.535] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=142.70, y=62.00, z=38.61] sends hit scan notification to ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=142.70, y=62.00, z=38.61]
+[19Feb2025 03:49:41.648] [Server thread/DEBUG] [pointblank/]: 81648 handling client fire request
+[19Feb2025 03:49:41.648] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 3
+[19Feb2025 03:49:41.648] [Server thread/DEBUG] [pointblank/]: 81648 - obtained hit result in 0ms
+[19Feb2025 03:49:41.648] [Server thread/DEBUG] [pointblank/]: 81648 obtained hit results
+[19Feb2025 03:49:41.648] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1601fd91
+[19Feb2025 03:49:41.649] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=142.70, y=62.00, z=38.61] sends hit scan notification to ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=142.70, y=62.00, z=38.61]
+[19Feb2025 03:49:41.713] [Server thread/DEBUG] [pointblank/]: 81713 handling client fire request
+[19Feb2025 03:49:41.713] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 2
+[19Feb2025 03:49:41.714] [Server thread/DEBUG] [pointblank/]: 81714 - obtained hit result in 0ms
+[19Feb2025 03:49:41.714] [Server thread/DEBUG] [pointblank/]: 81714 obtained hit results
+[19Feb2025 03:49:41.714] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@25ecc89d
+[19Feb2025 03:49:41.715] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=142.70, y=62.00, z=38.61] sends hit scan notification to ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=142.70, y=62.00, z=38.61]
+[19Feb2025 03:49:41.908] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:49:41.909] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:49:41.973] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:49:42.064] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:49:42.064] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:49:42.121] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:49:42.121] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:49:42.216] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:49:42.269] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:49:42.310] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:49:42.373] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:49:42.415] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:49:44.161] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:49:44.231] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:49:49.426] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 30
+[19Feb2025 03:49:57.837] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:49:57.919] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:50:01.486] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:50:01.587] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:50:01.636] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_shadow_stalker but it was marked as removed already
+[19Feb2025 03:50:14.031] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:50:14.081] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:50:14.082] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:50:14.148] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:50:14.188] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:50:14.435] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:50:15.555] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor_2 but it was marked as removed already
+[19Feb2025 03:50:15.555] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:50:15.593] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:50:19.331] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
+[19Feb2025 03:50:19.331] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor_2 but it was marked as removed already
+[19Feb2025 03:50:23.681] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:50:23.731] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:50:24.565] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:50:24.641] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:50:25.996] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:50:30.086] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:50:30.131] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:50:32.381] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:50:32.431] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:50:32.482] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:50:32.532] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:50:32.581] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:50:32.581] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:50:36.081] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:50:43.332] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:50:43.332] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:50:43.732] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:50:43.732] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:50:43.732] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:50:43.933] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor_2 but it was marked as removed already
+[19Feb2025 03:50:47.881] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:50:48.782] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:50:49.632] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:50:52.810] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:50:55.483] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:50:55.586] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:50:55.656] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_shadow_stalker but it was marked as removed already
+[19Feb2025 03:50:56.931] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:50:57.131] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:50:57.181] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:50:57.231] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:50:57.282] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:50:57.331] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:50:57.332] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:50:57.381] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:50:57.381] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:50:58.181] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:50:58.231] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:50:58.431] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:51:04.181] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
+[19Feb2025 03:51:04.281] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:51:04.331] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:51:04.332] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:51:05.448] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:51:05.449] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:51:09.281] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:51:09.390] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:51:11.382] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:51:13.431] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:51:16.907] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:51:22.232] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor_2 but it was marked as removed already
+[19Feb2025 03:51:28.981] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
+[19Feb2025 03:51:28.981] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor_2 but it was marked as removed already
+[19Feb2025 03:51:29.032] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:51:30.081] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:51:30.531] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
+[19Feb2025 03:51:32.681] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:51:32.681] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:51:35.731] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:51:35.781] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:51:36.144] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:51:40.181] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:51:40.236] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:51:40.236] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:51:40.294] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:51:40.334] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:51:42.431] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:51:45.281] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:51:49.682] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
+[19Feb2025 03:51:52.781] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:51:52.932] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:51:54.781] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:51:55.780] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:51:55.781] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:51:55.981] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:51:56.082] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:51:56.131] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:51:59.025] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:51:59.499] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:51:59.767] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:52:06.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinocrack_Gamer tried to swim in lava to escape The Damned
+[19Feb2025 03:52:06.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinocrack_Gamer has made the advancement [Condemned To Die]
+[19Feb2025 03:52:10.300] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:52:10.446] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:52:44.681] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:52:47.770] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:52:47.811] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:52:48.045] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:52:48.090] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:52:48.182] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:52:48.233] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:52:48.545] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:52:48.586] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:52:48.586] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:52:48.669] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:52:48.669] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:52:48.711] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:52:48.793] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:52:52.748] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:52:52.749] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:52:52.836] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:52:55.231] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:52:57.332] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:52:58.283] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:53:10.548] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:53:10.635] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:53:11.635] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:53:11.681] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:53:11.781] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:53:17.920] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:53:19.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinocrack_Gamer was killed whilst fighting Boiled One
+[19Feb2025 03:53:19.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dinocrack_Gamer: Killed 314 entities]
+[19Feb2025 03:53:25.174] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:53:49.020] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:53:49.058] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:53:49.137] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:53:49.137] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:53:49.189] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:53:49.542] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:53:49.759] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:53:49.759] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
+[19Feb2025 03:53:49.800] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:53:50.212] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
+[19Feb2025 03:53:55.714] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:54:00.731] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:54:02.158] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:54:02.931] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:54:03.082] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:54:03.082] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
+[19Feb2025 03:54:03.131] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:54:03.132] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:54:03.981] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:54:04.082] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:54:04.131] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:54:04.631] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:54:04.682] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:54:04.781] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:54:08.132] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:54:08.233] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:54:08.731] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:54:09.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dinocrack_Gamer: Set own game mode to Creative Mode]
+[19Feb2025 03:54:13.681] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:54:13.681] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:54:13.732] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:54:13.781] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:54:17.194] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Feb2025 03:54:17.207] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Feb2025 03:54:17.695] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:54:17.695] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:54:17.866] [Server thread/DEBUG] [pointblank/]: 57866 handling client fire request
+[19Feb2025 03:54:17.866] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 29
+[19Feb2025 03:54:17.866] [Server thread/DEBUG] [pointblank/]: 57866 - obtained hit result in 0ms
+[19Feb2025 03:54:17.866] [Server thread/DEBUG] [pointblank/]: 57866 obtained hit results
+[19Feb2025 03:54:17.866] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@618b89fe
+[19Feb2025 03:54:17.866] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1143.93, y=66.00, z=169.93] sends hit scan notification to ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1143.93, y=66.00, z=169.93]
+[19Feb2025 03:54:17.967] [Server thread/DEBUG] [pointblank/]: 57967 handling client fire request
+[19Feb2025 03:54:17.967] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 28
+[19Feb2025 03:54:17.968] [Server thread/DEBUG] [pointblank/]: 57968 - obtained hit result in 1ms
+[19Feb2025 03:54:17.968] [Server thread/DEBUG] [pointblank/]: 57968 obtained hit results
+[19Feb2025 03:54:17.968] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@67beb869
+[19Feb2025 03:54:17.968] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1143.93, y=66.00, z=169.93] sends hit scan notification to ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1143.93, y=66.00, z=169.93]
+[19Feb2025 03:54:18.021] [Server thread/DEBUG] [pointblank/]: 58021 handling client fire request
+[19Feb2025 03:54:18.021] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 27
+[19Feb2025 03:54:18.021] [Server thread/DEBUG] [pointblank/]: 58021 - obtained hit result in 0ms
+[19Feb2025 03:54:18.021] [Server thread/DEBUG] [pointblank/]: 58021 obtained hit results
+[19Feb2025 03:54:18.021] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@181f26f3
+[19Feb2025 03:54:18.021] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1143.93, y=66.00, z=169.93] sends hit scan notification to ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1143.93, y=66.00, z=169.93]
+[19Feb2025 03:54:18.116] [Server thread/DEBUG] [pointblank/]: 58116 handling client fire request
+[19Feb2025 03:54:18.116] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 26
+[19Feb2025 03:54:18.116] [Server thread/DEBUG] [pointblank/]: 58116 - obtained hit result in 0ms
+[19Feb2025 03:54:18.116] [Server thread/DEBUG] [pointblank/]: 58116 obtained hit results
+[19Feb2025 03:54:18.116] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@535ca399
+[19Feb2025 03:54:18.117] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1143.93, y=66.00, z=169.93] sends hit scan notification to ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1143.93, y=66.00, z=169.93]
+[19Feb2025 03:54:18.220] [Server thread/DEBUG] [pointblank/]: 58220 handling client fire request
+[19Feb2025 03:54:18.221] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 25
+[19Feb2025 03:54:18.221] [Server thread/DEBUG] [pointblank/]: 58221 - obtained hit result in 0ms
+[19Feb2025 03:54:18.221] [Server thread/DEBUG] [pointblank/]: 58221 obtained hit results
+[19Feb2025 03:54:18.221] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6e251475
+[19Feb2025 03:54:18.221] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1143.93, y=66.00, z=169.93] sends hit scan notification to ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1143.93, y=66.00, z=169.93]
+[19Feb2025 03:54:18.273] [Server thread/DEBUG] [pointblank/]: 58273 handling client fire request
+[19Feb2025 03:54:18.273] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 24
+[19Feb2025 03:54:18.273] [Server thread/DEBUG] [pointblank/]: 58273 - obtained hit result in 0ms
+[19Feb2025 03:54:18.273] [Server thread/DEBUG] [pointblank/]: 58273 obtained hit results
+[19Feb2025 03:54:18.273] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7c4a8428
+[19Feb2025 03:54:18.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinocrack_Gamer has completed the challenge [Back To Hell]
+[19Feb2025 03:54:18.275] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1143.93, y=66.00, z=169.93] sends hit scan notification to ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1143.93, y=66.00, z=169.93]
+[19Feb2025 03:54:18.378] [Server thread/DEBUG] [pointblank/]: 58378 handling client fire request
+[19Feb2025 03:54:18.378] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 23
+[19Feb2025 03:54:18.379] [Server thread/DEBUG] [pointblank/]: 58379 - obtained hit result in 0ms
+[19Feb2025 03:54:18.379] [Server thread/DEBUG] [pointblank/]: 58379 obtained hit results
+[19Feb2025 03:54:18.379] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1d830dec
+[19Feb2025 03:54:18.379] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1143.93, y=66.00, z=169.93] sends hit scan notification to ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1143.93, y=66.00, z=169.93]
+[19Feb2025 03:54:18.421] [Server thread/DEBUG] [pointblank/]: 58421 handling client fire request
+[19Feb2025 03:54:18.421] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 22
+[19Feb2025 03:54:18.422] [Server thread/DEBUG] [pointblank/]: 58422 - obtained hit result in 1ms
+[19Feb2025 03:54:18.422] [Server thread/DEBUG] [pointblank/]: 58422 obtained hit results
+[19Feb2025 03:54:18.422] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2b7525ae
+[19Feb2025 03:54:18.422] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1143.93, y=66.00, z=169.93] sends hit scan notification to ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1143.93, y=66.00, z=169.93]
+[19Feb2025 03:54:18.517] [Server thread/DEBUG] [pointblank/]: 58517 handling client fire request
+[19Feb2025 03:54:18.517] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1013323554 to 21
+[19Feb2025 03:54:18.517] [Server thread/DEBUG] [pointblank/]: 58517 - obtained hit result in 0ms
+[19Feb2025 03:54:18.518] [Server thread/DEBUG] [pointblank/]: 58518 obtained hit results
+[19Feb2025 03:54:18.518] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6d350a09
+[19Feb2025 03:54:18.518] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1143.93, y=66.00, z=169.93] sends hit scan notification to ServerPlayer['Dinocrack_Gamer'/2647, l='ServerLevel[world]', x=1143.93, y=66.00, z=169.93]
+[19Feb2025 03:54:19.432] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:54:20.291] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:54:20.331] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:54:20.332] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:54:20.403] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:54:20.481] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor_2 but it was marked as removed already
+[19Feb2025 03:54:20.581] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:54:20.631] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:54:21.031] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:54:24.181] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
+[19Feb2025 03:54:27.482] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:54:31.682] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:54:31.731] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[19Feb2025 03:54:31.783] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor_2 but it was marked as removed already
+[19Feb2025 03:54:31.831] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[19Feb2025 03:54:31.831] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[19Feb2025 03:54:31.893] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
